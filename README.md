@@ -21,15 +21,10 @@ https://www.szhdy.com/cart?action=configureproduct&pid=1859
 
 其他商品PID
 
-Tips for collapsed sections
-
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-`ruby puts "Hello World"`
+<details>
+<summary>Click to expand</summary>
+whatever
+</details>
 
 - 11.01更新
 
