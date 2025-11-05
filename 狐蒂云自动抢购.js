@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         狐蒂云自动抢购
 // @namespace    http://tampermonkey.net/
-// @version      1.0.8
+// @version      1.0.9
 // @description  进入支付页或购物车提交后暂停，支持缩放到侧栏，含抢购时间提示，新增重复提交选项，自动关闭弹窗
-// @match        https://www.szhdy.com/*
+// @match        https://www.szhdy.com/cart?*
 // @grant        none
 // ==/UserScript==
 
